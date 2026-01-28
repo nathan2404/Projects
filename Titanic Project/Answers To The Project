@@ -1,0 +1,33 @@
+Question 1
+
+We want to see the deaths of passengers by class to see 
+whether preference was given to different classes. 
+One of the best ways to visualise this is by simply plotting the data. Construct a plot to display deaths and survival per class - Pclass.
+
+
+Question 2
+
+Aggregate the data to see the gender split that was on the boat. What interesting feature do you notice when getting the gender split by class?
+
+
+Answer: The majority of passengers aboard the Titanic were males from the 3rd class. 
+
+Question 3
+
+Now that you have a better idea of the data structure, let's get more familiar with its statistical properties. 
+One of the columns contains the age of the passengers. 
+Using any plotting library familiar to you, please plot: 
+
+# 4.3 The histogram of the age per passenger class. 
+
+# 4.4 The histogram with its appropriate density over the histogram. 
+
+# 4.5 The age distribution of men in the 3rd class. Why do you think this 
+positively skewed distribution exists for this specific demographic 
+segment? What story do you think this tells us about these men? 
+
+Answer: There was a higher passenger count in the 3rd class for men between the ages of 20 and 30 on the Titanic. It was likely that they also sacrificed themselves to save the rest of the passengers based on the highest death count between the passenger classes for males over 15. They were the bravest of men on the Titanic.  
+
+#4.6 Hearing of the tragedy, the first comment you hear when the discussion of the lifeboats comes up is that women and children were first. Does this reflect in the data? Assume that a child is a passenger under the age of 15.
+
+Answer: Yes, the women and children had the highest survival count compared to the rest of the passengers. 
