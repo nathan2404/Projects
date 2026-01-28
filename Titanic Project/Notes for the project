@@ -1,0 +1,34 @@
+An outside project based on an application for a Research Analyst position at a company.  
+
+
+One of the first datasets that any analyst in the Big Data sphere gets introduced to is the Titanic 
+dataset. It also regularly features in computational prediction competitions as seen on 
+https://www.kaggle.com/. The sinking of the RMS Titanic is one of the most infamous shipwrecks in 
+history. On April 15, 1912, during her maiden voyage from the UK to US, the Titanic sank after 
+colliding with an iceberg. Although there was some element of luck involved in surviving the sinking, 
+some groups of people were more likely to survive than others, such as women, children, and the 
+upper-class.  
+
+Using any analytical tool of your choice (e.g. R or Excel): 
+
+4.1 Load “titanic.csv”. We want to see the deaths of passengers as per class in order to see 
+whether preference was given to different classes. One of the best ways to visualize this is 
+by simply plotting the data. Construct a plot to display deaths and survival per class - Pclass. 
+
+4.2 Next, aggregate the data to see the gender split that was on the boat. What interesting 
+feature do you notice when getting the gender split by class? 
+Now that you have a better idea of the data structure, lets get more familiar with the statistical 
+properties of it. One of the columns contain the age of the passengers. Using any plotting library 
+familiar to you, please plot: 
+
+4.3 The histogram of the age per passenger class. 
+
+4.4 The histogram with its appropriate density over histogram. 
+
+4.5 The age distribution of men in 3rd class. Why do you think this positively skewed distribution 
+exists for this specific demographic segment? What story do you think this tells us about 
+these men? 
+
+4.6 Hearing of the tragedy, the first comment you hear when the discussion of the lifeboats 
+come up is that women and children were first. Does this reflect in the data? Assume that a 
+child is a passenger under the age of 15. 
